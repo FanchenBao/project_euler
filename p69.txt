@@ -1,0 +1,1 @@
+No need to code. Pure math problem. Solution is the product of as many non-repetitive small primes that is smaller than 1,000,000 (2x3x5x7x11x13x17). See C++ solution for details.

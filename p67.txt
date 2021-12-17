@@ -1,0 +1,1 @@
+Solution is the same as p18, just switch the triangle.
